@@ -1,2 +1,5 @@
-# template
-template project using vue3 + ts + elementPlus
+template Project using
+
++ vue3
++ typescript
++ elementPlus
